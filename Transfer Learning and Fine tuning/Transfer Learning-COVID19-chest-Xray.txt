@@ -1,0 +1,2 @@
+https://towardsdatascience.com/transfer-learning-covid-19-from-chest-x-rays-classifier-66d6c483fb03
+Github: https://github.com/alfonsosantacruz/covid19-chest-xray-detector
